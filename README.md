@@ -1,4 +1,7 @@
 ### Hi there 👋
+I am **Benzer Bett**
+Here is my [portfolio](https://benzerbett.github.io)
+Twitter: [@benzerbett](https://twitter.com/benzerbett)
 
 <!--
 **benzerbett/benzerbett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
