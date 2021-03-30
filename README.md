@@ -3,6 +3,8 @@ I am **Benzer Bett**
 
 Here is my [portfolio](https://benzerbett.github.io)
 
+I do design (UI & UX) and development (ReactJS, VueJS, PHP, Go, Python etc)
+
 Twitter: [@benzerbett](https://twitter.com/benzerbett)
 
 ![](https://github-readme-stats.vercel.app/api?username=benzerbett&show_icons=true&theme=dracula)
