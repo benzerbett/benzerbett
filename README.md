@@ -3,7 +3,7 @@ I am **Benzer Bett**
 
 Here is my [portfolio](https://benzerbett.github.io)
 
-I do design (UI & UX) and fullstack development (ReactJS, VueJS, PHP, Go, Python etc)
+I do design (UI & UX) and fullstack development (JavaScript, TypeScript, PHP, Go, Python etc)
 
 Twitter: [@benzerbett](https://twitter.com/benzerbett)
 
