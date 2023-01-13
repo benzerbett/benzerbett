@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am **Benzer Bett**
 
-Here is my [portfolio](https://benzerbett.github.io)
+Here is my [portfolio](https://benzerbett.vercel.app)
 
 I do design (UI & UX) and fullstack development (JavaScript, PHP & Go)
 
